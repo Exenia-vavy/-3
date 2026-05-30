@@ -1,0 +1,196 @@
+{
+  "source_video": "video2.mp4",
+  "frame_results": [
+    {
+      "timestamp_seconds": 0.0,
+      "texts": [
+        {
+          "text": "uandtuviensdavoille",
+          "confidence": 0.802
+        },
+        {
+          "text": "peluis",
+          "confidence": 0.718
+        },
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "lauryaucalme",
+          "confidence": 0.949
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 5.0,
+      "texts": [
+        {
+          "text": "En-fin",
+          "confidence": 0.536
+        },
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "laury aucalme",
+          "confidence": 0.654
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 10.0,
+      "texts": [
+        {
+          "text": "Tu vois; on met du temps",
+          "confidence": 0.72
+        },
+        {
+          "text": "a avoir le permis:",
+          "confidence": 0.9
+        },
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "laUryaucalme",
+          "confidence": 0.864
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 15.0,
+      "texts": [
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "lauryaucalme",
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 20.0,
+      "texts": [
+        {
+          "text": "TikTok",
+          "confidence": 0.814
+        },
+        {
+          "text": "laUryaucalme",
+          "confidence": 0.788
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 25.0,
+      "texts": [
+        {
+          "text": "Tu vas laisserta mere",
+          "confidence": 0.985
+        },
+        {
+          "text": "prendre les transports",
+          "confidence": 0.862
+        },
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "laury-aucalme",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 30.0,
+      "texts": [
+        {
+          "text": "Et demain matin tu iras",
+          "confidence": 0.875
+        },
+        {
+          "text": "accompagner Tante Gertrual:",
+          "confidence": 0.661
+        },
+        {
+          "text": "TikTok",
+          "confidence": 0.991
+        },
+        {
+          "text": "laury-aucalme",
+          "confidence": 0.696
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 35.0,
+      "texts": [
+        {
+          "text": "Mais non:",
+          "confidence": 0.948
+        },
+        {
+          "text": "TikTok",
+          "confidence": 0.668
+        },
+        {
+          "text": "lauryaucalme",
+          "confidence": 0.81
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 40.0,
+      "texts": [
+        {
+          "text": "Mais Maman:",
+          "confidence": 0.808
+        },
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "lauryaucalme",
+          "confidence": 0.895
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 45.0,
+      "texts": [
+        {
+          "text": "Desole mon fils:",
+          "confidence": 0.782
+        },
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "lauryaucalme",
+          "confidence": 0.816
+        }
+      ]
+    },
+    {
+      "timestamp_seconds": 50.0,
+      "texts": [
+        {
+          "text": "TikTok",
+          "confidence": 1.0
+        },
+        {
+          "text": "laury aucalme",
+          "confidence": 0.612
+        }
+      ]
+    }
+  ]
+}
